@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Plan Recommend Regression Test Suite">
+	<test name = "Demo test" preserve-order="true">
+	<classes>
+	 <!-- <class name = "testcases.DummyTest"/> -->
+	 <class name = "testcases.LoginTest"/>
+	 <class name = "testcases.ForgotPasswordTest"/>
+	 <class name = "testcases.MyProfileTest"/>
+	 <!--  <class name = "testcases.EmployerGroupManagementTest"/> -->
+	<!-- <class name = "testcases.MyProfileTest"/> 
+	<class name = "testcases.BenefitConsumptionsTest"/>
+	<class name = "testcases.RecommendedPlansTest"/>  -->
+	</classes>
+	</test>
+	</suite>	
